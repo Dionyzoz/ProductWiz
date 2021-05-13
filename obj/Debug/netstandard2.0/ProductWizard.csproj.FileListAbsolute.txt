@@ -1,0 +1,12 @@
+/home/lucas/Coding/Sana/SDK 1.0.10/Sources/Addons/ProductWizard/bin/Debug/netstandard2.0/ProductWizard.deps.json
+/home/lucas/Coding/Sana/SDK 1.0.10/Sources/Addons/ProductWizard/bin/Debug/netstandard2.0/ProductWizard.dll
+/home/lucas/Coding/Sana/SDK 1.0.10/Sources/Addons/ProductWizard/bin/Debug/netstandard2.0/ProductWizard.pdb
+/home/lucas/Coding/Sana/SDK 1.0.10/Sources/Addons/ProductWizard/bin/Debug/netstandard2.0/Sana.Extensions.dll
+/home/lucas/Coding/Sana/SDK 1.0.10/Sources/Addons/ProductWizard/bin/Debug/netstandard2.0/Sana.Extensions.xml
+/home/lucas/Coding/Sana/SDK 1.0.10/Sources/Addons/ProductWizard/obj/Debug/netstandard2.0/ProductWizard.csprojAssemblyReference.cache
+/home/lucas/Coding/Sana/SDK 1.0.10/Sources/Addons/ProductWizard/obj/Debug/netstandard2.0/ProductWizard.AssemblyInfoInputs.cache
+/home/lucas/Coding/Sana/SDK 1.0.10/Sources/Addons/ProductWizard/obj/Debug/netstandard2.0/ProductWizard.AssemblyInfo.cs
+/home/lucas/Coding/Sana/SDK 1.0.10/Sources/Addons/ProductWizard/obj/Debug/netstandard2.0/ProductWizard.csproj.CoreCompileInputs.cache
+/home/lucas/Coding/Sana/SDK 1.0.10/Sources/Addons/ProductWizard/obj/Debug/netstandard2.0/ProductWizard.csproj.CopyComplete
+/home/lucas/Coding/Sana/SDK 1.0.10/Sources/Addons/ProductWizard/obj/Debug/netstandard2.0/ProductWizard.dll
+/home/lucas/Coding/Sana/SDK 1.0.10/Sources/Addons/ProductWizard/obj/Debug/netstandard2.0/ProductWizard.pdb

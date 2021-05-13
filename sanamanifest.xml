@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<SanaPackageInfo>
+  <metadata>
+    <id>ProductWizard</id>
+    <version>1.0.1</version>
+    <title>ProductWizard</title>
+    <authors>Sana Commerce</authors>
+    <type>Extension</type>
+    <minSanaVersion>1.0.0</minSanaVersion>
+  </metadata>
+</SanaPackageInfo>
